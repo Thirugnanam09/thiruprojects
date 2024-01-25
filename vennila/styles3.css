@@ -1,0 +1,27 @@
+h1{
+color: white;    
+}   
+    body{
+        background-color: #000000;
+        }
+        a{
+            color: rgba(255, 230, 2, 0.992);
+            font-size: x-large;
+            font-style: normal;
+           }
+        button{
+            background-color: black;
+           }
+           video{
+            width: 450;
+            height: 650;
+            border-style: ridge;
+            border-width: 8px;
+           }
+           #three{
+            font-size: xx-large;
+           }
+           #two {
+            font-size: large;
+            color: white;
+           }
